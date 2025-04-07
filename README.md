@@ -19,7 +19,7 @@ WatchSling is a customizable Apple Watch UI library that provides a drag-based i
 
 1. In Xcode, select **File > Swift Packages > Add Package Dependency…**
 2. Enter the repository URL:  
-   `https://github.com/username/WatchSling.git`
+   `https://github.com/gilgim/WatchSling.git`
 3. Choose the desired version range (e.g., from 1.0.0)
 4. Complete the wizard to add WatchSling to your project.
 
